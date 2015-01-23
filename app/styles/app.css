@@ -32,6 +32,7 @@ html, body {
 
 .output-text {
   font-family: 'Alegreya Sans', sans-serif;
+  font-size: 14px;
   float: left;
   width: 49%;
   margin-left: 20px;
