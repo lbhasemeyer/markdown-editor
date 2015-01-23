@@ -38,6 +38,6 @@ html, body {
   margin-left: 20px;
 }
 
-p {
-  margin-top: 40px;
+#ember286 > div.output-text > h2 {
+  margin-bottom: 40px;
 }
