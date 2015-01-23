@@ -1,3 +1,26 @@
-<h2 id="title">Welcome to Ember.js</h2>
+<html>
+  <head>
+  </head>
+  <body>
+
+    <div class="input-text">
+      <h2>Markdown</h2>
+      {{textarea class="markdown-text-area" placeholder="Write markdown here" value=markdown}}
+    </div>
+
+    <div class="output-text">
+      <h2>HTML</h2>
+      {{showdown-addon markdown}}
+    </div>
+
+  </body>
+</html>
+
+
+
+
+
+
+
 
 {{outlet}}
