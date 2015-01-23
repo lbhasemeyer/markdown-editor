@@ -8,6 +8,7 @@ html, body {
 .input-text {
   font-family: 'Alegreya Sans', sans-serif;
   float: left;
+  font-size: 14px;
   width: 49%;
 }
 
